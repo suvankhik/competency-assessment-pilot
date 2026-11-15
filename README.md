@@ -1,2 +1,5 @@
-# competency-assessment-pilot
-Pilot case study: competency-based assessment for an SCM internship
+# Competency Assessment Mapping (Ongoing) 
+## Purpose
+## Candidate ("Candidate A, MBA fresher, anonymized")
+## Target Role (internship, link to the JD)
+## Status (Ongoing: Step 1 of 8)
