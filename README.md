@@ -12,7 +12,7 @@ Candidates are MBA freshers in Logistics & Supply Chain Management with no prior
 Supply Chain & Logistics Operations Intern. See the [job description](jd/intern-jd.md).
 
 ## Scope and Limitations
-Small pilot study. This is a learning project, not a validated selection tool.
+This is a learning project, not a validated selection tool.
 
 ## Status: Ongoing
 - [x] Job description
